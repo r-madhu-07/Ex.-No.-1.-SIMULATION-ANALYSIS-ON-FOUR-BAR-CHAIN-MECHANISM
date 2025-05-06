@@ -53,8 +53,8 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name: Madhumitha R
+### Register Number: 212224240082
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
